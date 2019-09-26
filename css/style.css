@@ -2,5 +2,17 @@ body {
   font-family: "Lato", sans-serif;
   height: 100%
   color: #111;
-  line-height: 1.8; 
+  line-height: 1.8;
+}
+nav{
+  padding: 8px 16px;
+  float: left;
+  width: auto;
+}
+nav a{
+  width: 100%;
+  display: inline;
+  padding: 8px 16px;
+  text-align: left;
+  font-style: normal;
 }
