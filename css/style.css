@@ -22,3 +22,16 @@ nav a:hover, nav a:active {
   color: #555;
   text-decoration: underline;
 }
+.heading{
+  display: flex;
+  justify-content: space-between;
+}
+.nyu{
+  width: 100%;
+}
+.centered{
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
