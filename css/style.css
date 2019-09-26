@@ -8,6 +8,8 @@ nav{
   padding: 8px 16px;
   float: left;
   width: auto;
+  background-color: #DDD; /*change the colour later*/
+  /*can't get the nav bar to fill the length of the page!!!!*/
 }
 nav a{
   width: 100%;
