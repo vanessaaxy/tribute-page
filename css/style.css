@@ -84,3 +84,9 @@ p{
   font-weight: 500;
   line-height: 23px;
 }
+
+footer{
+  background-color: #EEE;
+  padding: 1em;
+  text-align: center;
+}
