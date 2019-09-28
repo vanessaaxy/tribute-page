@@ -28,6 +28,7 @@ nav a:hover, nav a:active {
 }
 .nyu{
   width: 100%;
+
 }
 .centered{
   position:absolute;
@@ -57,4 +58,20 @@ article{
 .para3{grid-area:para3;}
 .border{border-style: groove;}
 
-h3{text-align: center;}
+h3{
+  text-align: center;
+  font-family: Lato;
+  font-size: 27px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 900;
+  line-height: 23px;
+}
+p{
+  font-family: Lato;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 23px;
+}
