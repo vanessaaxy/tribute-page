@@ -24,7 +24,7 @@ nav a:hover, nav a:active {
 }
 .heading{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between; /*new york city doesn't stay in the picture when the browser decrease in size*/
 }
 .nyu{
   width: 100%;
