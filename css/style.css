@@ -50,9 +50,18 @@ article{ /*spaces among the images are not evenly distributed*/
   "para1 para2 para3"
 }
 
-.empire{grid-area:empire;}
-.friends{grid-area:friends;}
-.sunset{grid-area:sunset;}
+.empire{ /*img is not centralised*/
+  grid-area:empire;
+  justify-content: center;
+}
+.friends{
+  grid-area:friends;
+  justify-content: center;
+}
+.sunset{
+  grid-area:sunset;
+  justify-content: center;
+}
 .para1{grid-area:para1;}
 .para2{grid-area:para2;}
 .para3{grid-area:para3;}
