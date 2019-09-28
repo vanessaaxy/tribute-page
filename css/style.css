@@ -41,7 +41,7 @@ nav a:hover, nav a:active {
 article div{
   padding: 1em;
 }
-article{
+article{ /*spaces among the images are not evenly distributed*/
   display: grid;
   grid-gap: .25em;
   grid-template-areas:
@@ -58,7 +58,7 @@ article{
 .para3{grid-area:para3;}
 .border{border-style: groove;}
 
-h3{
+h3{ /*doesn't show as bold or big as I want it to be*/
   text-align: center;
   font-family: Lato;
   font-size: 27px;
