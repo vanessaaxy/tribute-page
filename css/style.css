@@ -3,11 +3,12 @@ body {
   height: 100%
   color: #111;
   line-height: 1.8;
+  background-color: #FDF5E6;
 }
 nav{
   display: flex;
   justify-content: flex-start;
-  background-color: #DDD; /*change the colour later*/
+  background-color: #B0C4DE; /*change the colour later*/
   /*can't get the nav bar to fill the length of the page!!!!*/
 }
 nav a{
@@ -19,7 +20,7 @@ nav a{
   color: #111;
 }
 nav a:hover, nav a:active {
-  color: #555;
+  color: #F0F8FF;
   text-decoration: underline;
 }
 .heading{
@@ -86,7 +87,7 @@ p{
 }
 
 footer{
-  background-color: #EEE;
+  background-color: #B0C4DE;
   padding: 1em;
   text-align: center;
 }
